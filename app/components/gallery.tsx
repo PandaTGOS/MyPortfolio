@@ -1,6 +1,5 @@
 "use client"
 import { useRef } from "react"
-import { useInView } from "framer-motion"
 import { SmoothScrollSection, BlurReveal } from "./smooth-scroll"
 import Image from "next/image";
 
